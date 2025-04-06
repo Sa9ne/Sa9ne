@@ -3,7 +3,7 @@
 
 ## My stack and tools
 
-![My Skills](https://skillicons.dev/icons?i=github,go,html,css,postgres)
+![My Skills](https://skillicons.dev/icons?i=github,go,js,html,css,postgres)
 
 ## About me
 I'm a backend developer  
