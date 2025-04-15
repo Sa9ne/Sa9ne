@@ -1,6 +1,10 @@
 
 <h1 align="center">👋 Hello! I'm Sa9ne </h1>
 
+<div align="center">
+    <img src="https://giffiles.alphacoders.com/132/132734.gif" style="background: transparent;" />
+</div>
+
 ## My stack and tools
 
 ![My Skills](https://skillicons.dev/icons?i=github,go,html,css,js,postgres)
