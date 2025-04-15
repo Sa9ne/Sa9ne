@@ -7,7 +7,9 @@
 
 ## My stack and tools
 
-![My Skills](https://skillicons.dev/icons?i=github,go,html,css,js,postgres)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,go,html,css,js,postgres">
+</div>
 
 ## About me
 I'm a backend developer  
