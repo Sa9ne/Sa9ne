@@ -8,7 +8,7 @@
 ## My stack and tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,go,html,css,js,postgres">
+    <img src="https://skillicons.dev/icons?i=github,go,flutter,dart,postgres,html,css,js">
 </div>
 
 ## About me
